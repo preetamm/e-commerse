@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Shopping Webapp
-This is a ecommerse website uses all react feature, state management with redux, follows flux patterns, data presistence , and much more..
-current in progress....
+## Shopping Webapp
+This is a ecommerse website uses all react feature, state management with redux, follows flux patterns, data presistence , and much more..<br />
+current in progress....</br>
 (check the code untill it comes live)
 
 ## Available Scripts
